@@ -34,7 +34,7 @@ O sistema modelado obedece à topologia descrita no enunciado:
 - **Call Center:** Sistema de espera FIFO ideal (capacidade infinita, sem desistências).
 
 ### Ferramentas de Desenvolvimento
-- **Simulação:** MATLAB (Implementação de lógica de eventos discretos e geração de variáveis aleatórias).
+- **Simulação:** C++ (Implementação de lógica de eventos discretos e geração de variáveis aleatórias).
 - **Controlo de Versão:** GitHub.
 - **Documentação:** Overleaf (LaTeX) para o relatório técnico.
 
