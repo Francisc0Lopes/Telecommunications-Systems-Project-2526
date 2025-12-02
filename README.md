@@ -1,7 +1,7 @@
 # Simulador de Tráfego e Dimensionamento de Call Center
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Ferramenta](https://img.shields.io/badge/ferramenta-MATLAB-blue)
+![Ferramenta](https://img.shields.io/badge/ferramenta-C++-blue)
 ![Relatório](https://img.shields.io/badge/relatório-Overleaf_(LaTeX)-green)
 ![Tipo](https://img.shields.io/badge/tipo-Simulação_Estocástica-orange)
 
@@ -44,8 +44,8 @@ O sistema modelado obedece à topologia descrita no enunciado:
 
 | Membro              | Responsabilidades Principais                                                                 |
 |---------------------|---------------------------------------------------------------------------------------------|
-| **[Nome Membro 1]** | Modelação Teórica (Erlang B/C); Definição da topologia e rotas; Introdução e Estado da Arte.|
-| **[Nome Membro 2]** | Implementação do motor de simulação (Gestão de eventos e listas); Validação estatística.    |
+| **Francisco Lopes** | Modelação Teórica (Erlang B/C); Definição da topologia e rotas; Introdução e Estado da Arte.|
+| **João Dragovíc** | Implementação do motor de simulação (Gestão de eventos e listas); Validação estatística.    |
 | **Sérgio Matias** | Análise de Resultados (KPIs); Dimensionamento final (Circuitos/Operadores); Conclusão.      |
 
 ---
@@ -89,4 +89,4 @@ O sistema final deve garantir estritamente os seguintes Requisitos de Qualidade 
 | **Fila de Espera** | FIFO Ideal (sem desistências) |
 
 ---
-*ISEL - Licenciatura em Engenharia de Electrónica e Telecomunicações e de Computadores*
+*ISEL - Licenciatura em Engenharia Informática, Redes e Telecomunicações*
